@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(https://imgur.com/FDC3EuM.png);
+    background-image: url(deemo_base.png);
 }
 
 .ds4.white.disconnected {
