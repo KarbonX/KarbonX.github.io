@@ -16,7 +16,7 @@
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(notouchpad.png);
+    background-image: url(drewskitouchpad.png);
 }
 
 .ds4.white .back, .ds4 .start {
@@ -32,7 +32,7 @@
 }
 
 .ds4.white .face {
-    background-image: url(no.png);
+    background-image: url(drewskidpad.png);
 }
 
 /*END PS4 White Controller Styling*/
